@@ -1,0 +1,7 @@
+﻿  AnimationProgramming.cpp
+D:\Dev\Isart\2nd year\Projects\AnimationProg\GPM2_LEBERT_K\AnimationProgramming\AnimationProgramming\AnimationProgramming.cpp(19,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Dev\Isart\2nd year\Projects\AnimationProg\GPM2_LEBERT_K\AnimationProgramming\AnimationProgramming\AnimationProgramming.cpp(22,10): warning C4477: 'printf' : format string '%ld' requires an argument of type 'long', but variadic argument 1 has type 'size_t'
+D:\Dev\Isart\2nd year\Projects\AnimationProg\GPM2_LEBERT_K\AnimationProgramming\AnimationProgramming\AnimationProgramming.cpp(22,10): message : consider using '%zd' in the format string
+  stdafx.cpp
+  Generating Code...
+Engine.lib(Engine.dll) : fatal error LNK1112: module machine type 'x86' conflicts with target machine type 'x64'

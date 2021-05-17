@@ -1,0 +1,15 @@
+cmake_minimum_required(VERSION 3.16.3)
+
+set(PROJECT_NAME AnimProg)
+
+project(${PROJECT_NAME} LANGUAGES CXX)
+
+set(CMAKE_CXX_STANDARD 17)
+set(CMAKE_CXX_STANDARD_REQUIRED ON)
+set(CMAKE_MODULE_PATH ${CMAKE_MODULE_PATH} ${PROJECT_SOURCE_DIR}/CMake/)
+set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/bin)
+
+add_subdirectory(${PROJECT_SOURCE_DIR}/AnimationProgramming)
+add_subdirectory(${PROJECT_SOURCE_DIR}/libMaths)
+
+
