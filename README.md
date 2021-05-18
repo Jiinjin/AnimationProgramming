@@ -11,5 +11,5 @@ First of, clone the project wherever you want with the following command :
 
 Then open Cmake, and put the project path on the top input text, and the same right under but with `/build` at the end
 
-![Cmake](http://prntscr.com/131yitm)
+![Cmake](/Screens/CmakePaths.png)
 	
