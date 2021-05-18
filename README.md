@@ -33,7 +33,7 @@ On visual, in the solution explorer, right click on "libMaths" (1) and click the
 
 ![Cmake](/Screens/VisualBuildLibMath.png)
 
-Right click on "AnimProgExe" (1) and click the "Setup As Project" button (2)
+Right click on "AnimProgExe" (1) and click the "Set as StartUp Project" button (2)
 
 ![Cmake](/Screens/VisualSetupAsProject.png)
 
