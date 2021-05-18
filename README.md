@@ -37,7 +37,7 @@ Right click on "AnimProgExe" (1) and click the "Set as StartUp Project" button (
 
 ![Cmake](/Screens/VisualSetupAsProject.png)
 
-Then hit CTRL + F5 to build the project or click the "Local Windows Debugger" in the tool bar.
+Then hit CTRL + F5 to build the project or click the "Local Windows Debugger" button in the tool bar.
 
 Enjoy !
 
